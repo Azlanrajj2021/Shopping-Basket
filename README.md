@@ -2,7 +2,7 @@
 Please note that everything mentioned below works on macOS. If you are using a different machine and get stuck at a specific stage, the instructions for your machine might be different. When trying to find a solution on Google, please mention your operating system, e.g. Windows.
 
 Prerequisites: 
-1) Install `sbt` 
+1) Install **sbt**
 2) `Code editor or IDE` of choice needs to installed (for example IntelliJ IDEA). 
 
 Project set-up:
