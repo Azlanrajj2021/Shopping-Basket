@@ -7,7 +7,8 @@ Please note that everything mentioned below works on macOS. If you are using a d
 
 ## Project set-up:
 1) Start by creating a **new directory** on your machine (for where you will clone the repository).
-2) To **clone the repository** please follow the steps here: [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) using the HTTPS method.
+2) To **clone the repository** please follow the steps here: [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) using the HTTPS URL. 
+3) Password-based authentication for Git has been removed in favor of more secure authentication methods. Personal access token (PAT) for authentication is used instead of a password. To set-up a PAT [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 ## Once the project has been cloned run the project by:
 1) **Open terminal or command prompt** and navigate to the project directory. If you do not know how to navigate in terminal please see: [Navigating the File System with Terminal](https://gomakethings.com/navigating-the-file-system-with-terminal/#:~:text=Type%20the%20cd%20command%2C%20followed,you%20want%20to%20navigate%20to.&text=Paths%20are%20relative%20to%20the,the%20currently%20logged%20in%20user)
