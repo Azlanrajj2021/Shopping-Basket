@@ -1,4 +1,4 @@
-# Shop-Basket
+# Shopping-Basket
 Please note that everything mentioned below works on macOS. If you are using a different machine and get stuck at a specific stage, the instructions for your machine might be different. When trying to find a solution on Google, please mention your operating system, e.g. Windows.
 
 ## Prerequisites: 
