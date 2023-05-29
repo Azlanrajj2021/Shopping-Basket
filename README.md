@@ -18,4 +18,4 @@ A welcome message should be printed in the console with the list of items and in
 Next, you should be able to input item numbers into the terminal or command prompt and hit enter.
 Finally the shopping basket calculations should be displayed, if item numbers are input incorretly then you should see an invalid input message. 
 
-Please review the instructions and let me know if there are any other concerns.
+That's it, thank you for using the Shop-Basket calculator.
